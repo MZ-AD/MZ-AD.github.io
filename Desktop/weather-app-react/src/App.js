@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import axios from "axios";
-
+import { upload } from "@testing-library/user-event/dist/upload";
 
 
 function App() {
@@ -35,7 +35,7 @@ searchLocation(' ')
             <p>{data.name}</p>
            </div>
            <div className="temp">
-           {data.main ? <h1>{data.main.temp}•F</h1> : null}
+           {data.main ? <h1>{data.main.temp}°F</h1> : null}
            </div>
            <div className="description">
             {data.weather ? <p>{data.weather[0].description}</p> : null}           
