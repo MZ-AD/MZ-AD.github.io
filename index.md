@@ -22,6 +22,8 @@ Some of my key skills include:
 
    <br>
 
+[See Blog](/_site/another-page.html)
+
 # Featured Projects
 
 ## Project 1: ZAP Web Application
