@@ -24,6 +24,7 @@ Some of my key skills include:
 
  [➤ CLick To See Blogs](/blog.html)
 
+<br> 
 # Featured Projects
 
 ## Project 1: ZAP Web Application
