@@ -22,7 +22,7 @@ Some of my key skills include:
 
    <br>
 
-[See Blog](/another-page.html)
+ [➤ CLick To See Blogs](/blog.html)
 
 # Featured Projects
 
